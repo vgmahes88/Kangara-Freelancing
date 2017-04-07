@@ -1,0 +1,464 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body
+{
+	font-family: 'Montserrat', sans-serif;
+}
+.main-container
+{
+	width:1366px;
+}
+.border-bot img
+{
+	width:100%;
+}
+.logo,.log-register
+{
+	padding-top:20px;
+}
+.car-section img,
+.tips-right img
+{
+	
+	width:100%;
+}
+.kankara-interest
+{
+	 height: 473px;
+    display: table-cell;
+    color: rgb(35,160,216);
+    vertical-align: middle;
+    font-weight: bold;
+	padding-left: 20px;
+}
+.kankara-interest button
+{
+	text-transform:uppercase;
+}
+.kankara-interest h3
+{
+	font-size:46px;
+}
+.kankara-interest h5
+{
+	line-height:28px;
+	font-size:22px;
+}
+.interestbtn button
+{
+	background:none;
+	color:rgb(235,38,45);
+	border:2px solid rgb(235,38,45);
+	font-size:25px;
+	font-weight:bold;
+	border-radius:4px;
+}
+.register
+{
+	background: none;
+    color: rgb(235,38,45);
+    border: 2px solid rgb(235,38,45);
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border-radius: 4px;
+    text-transform: uppercase;
+}
+.login
+{
+	background: none;
+	border:none;
+	color:rgb(2,144,210);
+	font-size:17px;
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:1px;
+	right:20px;
+	position:relative;
+	
+}
+
+.interestbtn
+{
+	margin-top:50px;
+}
+.kankara-work
+{
+	
+	background:#0290d2;
+	    padding-top: 25px;
+}
+.post-car figure img{
+	height: 130px;
+    margin-bottom: 25px;
+}
+.kankara-work h3,
+.kankara-work p
+{
+	margin-bottom: 25px;
+}
+.kankara-work h3,
+.kankara-work p,
+.kankara-work figcaption
+{
+   color:#fff;	
+  
+}
+.kankara-work h3
+{
+	font-size:45px;
+}
+.kankara-work p
+{
+	width:50%;
+	margin-bottom:10px;
+}
+.post-car
+{
+	padding-bottom:30px;
+	padding-top:30px;
+}
+.tips-right img
+{
+	height:440px;
+}
+.tips-right-sec
+{
+	padding-right:0px;
+	padding-left:0px;
+}
+.tips-advice
+{
+	background:#123b4e;
+	height:440px;
+    margin-bottom: 30px;
+}
+
+.tips-left-carousel .bx-wrapper
+{
+	-moz-box-shadow:none;
+    -webkit-box-shadow:none;
+    box-shadow: none;
+    border:none;
+    background:none;
+	max-width:70% !important;
+}
+.tips-left-carousel
+{
+	height: 440px;
+    display: table-cell;
+    vertical-align: middle;
+	
+}
+.tips-ad-slide h3,
+.tips-ad-slide p
+{
+	color:#fff;
+}
+.sell-five
+{
+	width:20%;
+}
+.sell-car  figure img
+{
+	width:100px;
+	height:100px;
+	margin-bottom: 25px;
+    margin-top: 25px;
+}
+.postcar-sale-2
+{
+	background:rgb(144,2,210);
+}
+.postcar-sale-3
+{
+	background:rgb(235,38,45);
+}
+.postcar-sale-4
+{
+	background:rgb(2,193,210);
+}
+.postcar-sale-5
+{
+	background:rgb(210,110,2);
+}
+.sell-car  figure  figcaption{
+	
+	text-align:center;
+	color:#fff;
+}
+.selcar-head h2
+{
+	color:#0290d2;
+	font-weight:bold;
+}
+.selcar-head
+{
+	margin-bottom:40px;
+}
+.postcar-sale
+{
+	background:#0290d2;
+	
+}
+.sell-car
+{
+	 
+    height: 250px;
+    display: table-cell;
+    vertical-align: middle;
+	    padding-bottom: 35px;
+}
+.sell-car-btn button
+{
+	margin-top:20px;
+	text-transform:uppercase;
+	font-size:17px;
+	font-weight:bold;
+	margin-bottom:20px;
+}
+.dealer-service
+{
+	background:rgb(255,115,106);
+	clear: both;
+}
+.service-head h3
+{
+	
+	font-size:45px;
+	letter-spacing:1px;
+	font-weight:bold;
+	margin-bottom: 30px;
+}
+.service-head p
+{
+	font-size:18px;
+	font-weight:bold;
+}
+.service-head h3,
+.service-head p
+{
+	color:#fff;
+}
+.service-container
+{
+	width:1000px;
+}
+.vsp h3
+{
+	font-size:21px;
+}
+.people-belive
+{
+	background-image:url("../img/people-belive.png");
+	background-size:cover;
+}
+.service-container .ui-state-active 
+{
+	border:none !important;
+    background: #ffffff !important;
+    font-weight: bold;
+    color: #ef382c !important;
+
+}
+.service-container  .ui-widget-content
+{
+	background:none !important;
+	border:none !important;
+	padding:0px;
+}
+.service-container .ui-state-active .ui-icon
+{
+	background-image: url(../img/active-icon.png) !important;
+    background-position: initial;
+    background-size: cover;
+}
+.service-container .ui-icon
+{
+	background-image: url(../img/state-default.png) !important;
+    background-position: initial;
+    background-size: cover;
+	float: right;
+}
+.service-head
+{
+	margin-top:6em;
+	margin-bottom:3em;
+}
+.service-container .ui-accordion .ui-accordion-header
+{
+	background:none;
+	border:1px solid #fff;
+	color: #fff;
+	padding:20px;
+	font-size:17px;
+	font-weight:bold;
+	margin-bottom:20px;
+}
+.service-register table{
+	width:100%;
+}
+.service-register table tr td{
+	width:50%;
+}
+.service-register .form-control
+{
+   height:50px;
+   font-size:20px;   
+   font-weight:bold;
+}
+.different-serviveprovider
+{
+	background:rgb(2,144,210);
+	padding-bottom: 4em;
+}
+.differnet-sp-head
+{
+	margin-top:5em;
+	margin-bottom:3em;
+}
+
+.differnet-sp-head h2{
+	
+	font-size:45px;
+	color:#fff;
+	font-weight:bold;
+}
+.order-bth
+{
+	background:rgb(18,59,78);
+	text-transform:uppercase;
+	font-size:19px;
+	font-weight:bold;
+	letter-spacing:2px;
+}
+.request-nowbtn button
+{
+	background:rgb(18,59,78);
+	text-transform:uppercase;
+	font-size:19px;
+	font-weight:bold;
+	letter-spacing:2px;
+}
+.order-bth-trans
+{
+	background:none;
+	border:1px solid #000;
+	text-transform:uppercase;
+	font-size:19px;
+	font-weight:bold;
+	letter-spacing:2px;
+	color:#000;
+}
+.vsp figcaption
+{
+	
+	color:#fff;
+	font-weight:bold;
+	height:140px;
+}
+.vsp-img
+{
+	height:180px;
+}
+.request-now table
+{
+	width:100%;
+}
+.request-now table tr td 
+{
+	padding: 4px;
+}
+.request-now table tr td  input,
+.request-now table tr td  button
+{
+	height:50px;
+	width:100%;
+}
+.request-now
+{
+	clear: both;
+    padding-top: 4em;
+}
+.people-belive .vsp-img
+{
+	height:auto;
+}
+.fooetr-k
+{
+	background:rgb(9,33,44);
+	padding:10px;
+}
+.footer nav{
+	padding-top:10px;
+}
+.fooetr-k ul li a:hover
+{
+	background:none;
+}
+.fooetr-k ul li a,
+.navbar-header a
+{
+	color:#fff;
+	font-size:17px;
+	font-weight:bold;
+	vertical-align:middle;
+}
+@media screen and (min-width:320px) and (max-width:649px)
+{
+	.main-container,.sell-five,.service-container
+	{
+		width:100%;
+	}
+	.sell-car
+	{
+		display: block;
+		margin-bottom:10px;
+	}
+	.request-now table tr td
+	{
+		width:100%;
+	}
+	.request-now table tr td input, .request-now table tr td button {
+			height: 50px;
+			width: 100%;
+			display:block;
+	}
+	.differnet-sp-head h2,
+	.service-head h3,
+	.selcar-head h2,
+	.kankara-work h3
+	{
+		font-size:25px;
+	}
+	.kankara-interest h3
+	{
+		font-size:30px;
+	}
+}
+@media screen and (min-width:650px) and (max-width:1023px)
+{
+	.main-container,.sell-five,.service-container
+	{
+		width:100%;
+	}
+	.sell-car
+	{
+		display: block;
+		margin-bottom:10px;
+	}
+}
+@media screen and (min-width:1024px) and (max-width:1280px)
+{
+	.main-container
+	{
+		width:100%;
+	}
+}
+@media screen and (min-width:1281px) and (max-width:1366px)
+{
+	.main-container
+	{
+		width:100%;
+	}
+}
